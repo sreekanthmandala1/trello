@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Day one",
+    "tracks": [
+      {
+        "id": "track-one",
+        "title": "To-Do",
+        "talks": [
+          {
+            "issueType": "",
+            "text": "",
+            "speaker": "",
+            "createdAt": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "qa-panels",
+        "title": "Doing",
+        "talks": [
+          {
+            "issueType": "",
+            "text": "",
+            "speaker": "",
+            "createdAt": ""
+          }
+        ]
+      },
+
+      {
+        "id": "Done",
+        "title": "Done",
+        "talks": [
+          {
+            "issueType": "",
+            "text": "",
+            "speaker": "",
+            "createdAt": ""
+          }
+        ]
+      },
+
+      {
+        "id": "New Panel one",
+        "title": "New Panel one",
+        "talks": [
+          {
+            "issueType": "",
+            "text": "",
+            "speaker": "",
+            "createdAt": ""
+          }
+        ]
+      },
+
+      {
+        "id": "New Panel two",
+        "title": "New Panel two",
+        "talks": [
+          {
+            "issueType": "",
+            "text": "",
+            "speaker": "",
+            "createdAt": ""
+          }
+        ]
+      },
+      {
+        "id": "New Panel three",
+        "title": "New Panel three",
+        "talks": [
+          {
+            "issueType": "",
+            "text": "",
+            "speaker": "",
+            "createdAt": ""
+          }
+        ]
+      }
+    ]
+  }
+]
