@@ -1,6 +1,10 @@
 # Prerequisite
 npm i @angular/material @angular/cdk @angular/animations
 
+# deploy into firebase
+ng add @angular/fire
+ng deploy
+
 # Trello
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.10.
